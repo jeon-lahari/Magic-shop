@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,intial-scale=1.0">
+<title>All products-Magic shop</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merienda&family=Varela+Round&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Buda:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+<section class="header">
+<nav>
+<a href="index.html"><img src="1.png"></a>
+<div class="nav-links">
+<ul>
+<li><a href="file:///C:/Users/User/OneDrive/Documents/html/index.html">HOME</a></li>
+<li><a href="file:///C:/Users/User/OneDrive/Documents/html/product.html">PRODUCTS</a></li>
+<li><a href="">CART</a></li>
+<li><a href="">CONTACT</a></li>
+<li><a href="file:///C:/Users/User/OneDrive/Documents/html/login.html">LOGIN/SIGN UP</a></li> 
+</ul>
+</div>
+</nav>
+</section>
+<section class="categories">
+<h2>All products</h2><br>
+<div class="row">
+<div class="col-3">
+<img src="3.jpg">
+<h4>[JIN] PILLOW (shipped after mid-June 2022)</h4>
+<p>¥ 8,300</p>
+</div>
+<div class="col-3">
+<img src="4.jpg">
+<h4>[JIMIN] WITH YOU HOODY (shipped after mid-June 2022)</h4>
+<p>¥ 11,900</p>
+</div>
+<div class="col-3">
+<img src="5.jpg">
+<h4>[V] BROOCH SET (FACES) (shipped after late July 2022)</h4>
+<p>¥ 4,100</p>
+</div>
+<div class="col-3">
+<img src="6.jpg">
+<h4>[V] BROOCH SET (FLOWER BUDDIES) (shipped after late July 2022)</h4>
+<p>¥ 5,900</p>
+</div>
+<br>
+<div class="col-3">
+<img src="7.jpg">
+<h4>[V] BROOCH SET (CLOUD DROPS) (shipped after late July 2022)</h4>
+<p>¥ 4,300</p>
+</div>
+<div class="col-3">
+<img src="8.jpg">
+<h4>[RM] ARMY JOGGER PANTS [BLACK] (shipped after late July 2022)</h4>
+<p>¥ 19,900</p>
+</div>
+<div class="col-3">
+<img src="9.jpg">
+<h4>[RM] ARMY JOGGER PANTS [GREY] (shipped after late July 2022)</h4>
+<p>¥ 10,200</p>
+</div>
+<div class="col-3">
+<img src="10.jpg">
+<h4>[V] MUTE BOSTON BAG (shipped after late July 2022)</h4>
+<p>¥ 19,400</p>
+</div>
+<br>
+<div class="col-3">
+<img src="11.jpg">
+<h4>[RM] BUNGEO-PPANG WIND CHIME (shipped after early August 2022)</h4>
+<p>¥ 6,300</p>
+</div>
+<div class="col-3">
+<img src="12.jpg">
+<h4>[SUGA] BLACK NOTE & COVER SET (shipped after early August 2022)</h4>
+<p>¥ 9,900</p>
+</div>
+<div class="col-3">
+<img src="13.jpg">
+<h4>[SUGA] GUITAR PICK NECKLACE (shipped after early August 2022)</h4>
+<p>¥ 10,200</p>
+</div>
+<div class="col-3">
+<img src="14.jpg">
+<h4>[J-HOPE] HOPE POT SET (shipped after early August 2022)</h4>
+<p>¥ 7,400</p>
+</div>
+<br>
+<div class="col-3">
+<img src="15.jpg">
+<h4>[[JIMIN] RED CARVING EARRING (shipped after early August 2022)</h4>
+<p>¥ 10,300</p>
+</div>
+<div class="col-3">
+<img src="16.jpg">
+<h4>[JIN] GOOD DAY PAJAMA (shipped after late August 2022)</h4>
+<p>¥ 14,900</p>
+</div>
+<div class="col-3">
+<img src="17.jpg">
+<h4>[JIN] BAD DAY PAJAMA (shipped after late August 2022)</h4>
+<p>¥ 15,200</p>
+</div>
+<div class="col-3">
+<img src="18.jpg">
+<h4>[JUNG KOOK] ARMYST ZIP-UP HOODY [BLACK] (shipped after late August 2022)</h4>
+<p>¥ 16,400</p>
+</div>
+<br>
+<div class="col-3">
+<img src="19.jpg">
+<h4>[JUNG KOOK] ARMYST ZIP-UP HOODY [WHITE] (shipped after late August 2022)</h4>
+<p>¥ 16,300</p>
+</div>
+<div class="col-3">
+<img src="20.jpg">
+<h4>[JUNG KOOK] ARMYST ZIP-UP HOODY [MUSTARD] (shipped after late August 2022)</h4>
+<p>¥ 16,900</p>
+</div>
+<div class="col-3">
+<img src="21.jpg">
+<h4>[JUNG KOOK] ARMYST ZIP-UP HOODY [PINK] (shipped after late August 2022)</h4>
+<p>¥ 16,200</p>
+</div>
+<div class="col-3">
+<img src="22.jpg">
+<h4>[JUNG KOOK] MIKROKOSMOS MOOD LAMP (shipped after the end of August 2022)</h4>
+<p>¥ 18,400</p>
+</div><div class="col-3">
+<img src="23.jpg">
+<h4>[J-HOPE] SIDE BY SIDE MINI BAG (shipped after early September 2022)</h4>
+<p>¥ 15,400</p>
+</div>
+</div>
+<div class="contact">
+<h1>CONTACT</h1>
+<p>42 Hangang-daero Yongsan-gu Seoul 04389 Korea, Republic of (South)</p>
+<h4>magicshop@gmail.com</h4>
+<h5>82-2-3444-0105</h5>
+</div>
+</section>
+</body>
+</html>
